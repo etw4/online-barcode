@@ -1,0 +1,21 @@
+{
+  "name": "barcode_project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@netlify/functions": "^2.6.0",
+    "@types/express": "^4.17.21",
+    "canvas": "^2.11.2",
+    "ejs": "^3.1.10",
+    "express": "^4.19.2",
+    "jsbarcode": "^3.11.6",
+    "serverless-http": "^3.2.0"
+  }
+}
